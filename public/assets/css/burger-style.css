@@ -1,0 +1,10 @@
+
+/* .landing-page-wrapper {
+    height: 100%;
+} */
+
+.center-pacman {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
