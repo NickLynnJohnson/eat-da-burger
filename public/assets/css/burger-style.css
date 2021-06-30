@@ -1,10 +1,11 @@
 
-/* .landing-page-wrapper {
-    height: 100%;
-} */
+body {
+    background-image: url("../img/burger-background.jpeg");
+}
 
 .center-pacman {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
